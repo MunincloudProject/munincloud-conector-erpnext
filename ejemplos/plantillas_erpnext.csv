@@ -1,0 +1,9 @@
+uso;tipo;plantilla
+# Las Item Tax Template de TU ERPNext, por su nombre exacto (llevan la abreviatura de tu compañía).
+# Estos nombres son de ejemplo: cámbialos por los tuyos. Un tipo que no esté aquí deja la columna vacía (y un aviso).
+compra;21;IVA 21% Soportado - EP
+compra;10;IVA 10% Soportado - EP
+compra;4;IVA 4% Soportado - EP
+venta;21;IVA 21% Repercutido - EP
+venta;10;IVA 10% Repercutido - EP
+venta;4;IVA 4% Repercutido - EP

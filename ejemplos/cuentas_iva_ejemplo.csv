@@ -1,0 +1,10 @@
+# EJEMPLO: cuentas de IVA de una compañía de prueba («Empresa de Pruebas», abreviatura EP). Los nombres son de
+# ejemplo: pon los de TU plan de cuentas de ERPNext tal cual (con la abreviatura de tu compañía).
+# uso: compra (IVA soportado) o venta (IVA repercutido) · tipo: el porcentaje de IVA · cuenta: el nombre de la Account
+uso;tipo;cuenta
+compra;21;4720 - HP IVA Soportado 21% - EP
+compra;10;4721 - HP IVA Soportado 10% - EP
+compra;4;4722 - HP IVA Soportado 4% - EP
+venta;21;4770 - HP IVA Repercutido 21% - EP
+venta;10;4771 - HP IVA Repercutido 10% - EP
+venta;4;4772 - HP IVA Repercutido 4% - EP
